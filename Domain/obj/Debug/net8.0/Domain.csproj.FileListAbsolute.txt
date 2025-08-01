@@ -1,0 +1,11 @@
+/Users/alen/Desktop/dot-net-clean-arch/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/alen/Desktop/dot-net-clean-arch/Domain/bin/Debug/net8.0/Domain.dll
+/Users/alen/Desktop/dot-net-clean-arch/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/Domain.dll
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/alen/Desktop/dot-net-clean-arch/Domain/obj/Debug/net8.0/ref/Domain.dll
